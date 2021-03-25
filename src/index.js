@@ -4,9 +4,10 @@ import png from './assets/1.png'
 console.log(x)
 console.log('hi--');
 
-// console.log(png);
 const div = document.getElementById('app')
+// delete img tag
 // const img = document.createElement('img')
+// console.log(png);
 // img.src = png
 // console.log(img);
 // div.appendChild(img)
