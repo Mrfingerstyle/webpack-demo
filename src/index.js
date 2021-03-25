@@ -5,7 +5,7 @@ console.log(x)
 console.log('hi--');
 
 // console.log(png);
-// const div = document.getElementById('app')
+const div = document.getElementById('app')
 // const img = document.createElement('img')
 // img.src = png
 // console.log(img);
